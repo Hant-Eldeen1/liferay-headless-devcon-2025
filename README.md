@@ -13,6 +13,10 @@ A **Workshop Walkthrough** directory containing a subfolder for each step of the
 ### 📥 Test LAR File  
 A **UsersAndPage.lar** file with default data you can import into the portal.  Use it to verify that your Export/Import functionality behaves as expected.
 
+### 📦 Preconfigured Bundles  
+A set of **bundles with all workshop changes already deployed**. Simply [download](https://drive.google.com/file/d/1Dboa3JAlqb3W2c2eN9UsArWObEiWVdbd
+) them, update the `liferay.home` property inside `portal-ext.properties` to point to your bundle path, and run the portal directly.
+
 ---
 
 ## 🚀 Steps to Implement Export/Import for Users  
